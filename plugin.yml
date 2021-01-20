@@ -1,0 +1,9 @@
+name: FlyUI
+main: FlyUI\main
+api: 3.0.0
+version: 1.0
+author: RealApexGamerz
+
+commands:
+  fly:
+    description: "Go To The FlyUI Menu!"
